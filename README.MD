@@ -12,3 +12,5 @@ Lägg filen `pgaTourData.csv` i samma mapp som notebooken innan du kör.
 ## Köra notebooken
 
 jupyter notebook Golf_analys_kk1.ipynb
+
+## installera packet med
